@@ -15,5 +15,5 @@ My data analytics projects
 ## Contact me 
 reach out to me at kitisak.jun@gmail.com
 
-## Imange
+## Image
 ![deadpool](https://wallpapers.com/images/featured/deadpool-tzhfez1w8ud2z8aw.jpg)
