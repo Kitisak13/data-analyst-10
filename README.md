@@ -11,3 +11,9 @@ My data analytics projects
   6. R
   7. Python
   9. ML
+
+## Contact me 
+reach out to me at kitisak.jun@gmail.com
+
+## Imange
+![deadpool](https://wallpapers.com/images/featured/deadpool-tzhfez1w8ud2z8aw.jpg)
